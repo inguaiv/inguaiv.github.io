@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inguaiv.github.io/sitemap.html.gz
+Sitemap: https://inguaiv.github.io/app/sitemap.html.gz
+Sitemap: https://inguaiv.github.io/assets/sitemap.html.gz
+Sitemap: https://inguaiv.github.io/css/sitemap.html.gz
+Sitemap: https://inguaiv.github.io/includes/sitemap.html.gz
+Sitemap: https://inguaiv.github.io/item/sitemap.html.gz
+Sitemap: https://inguaiv.github.io/src/sitemap.html.gz
